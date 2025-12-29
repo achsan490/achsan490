@@ -29,15 +29,15 @@ struktur rapi, dan solusi yang realistis.
 ---
 ## 🌐 Connect
 <p align="center">
-  <a href="https://instagram.com/USERNAME_INSTAGRAM" target="_blank">
+  <a href="(https://www.instagram.com/san49410?igsh=eHR4YzIyNGZkM3lm)" target="_blank">
     <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="28"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/LINKEDIN_USERNAME" target="_blank">
+  <a href="[https://www.linkedin.com/in/LINKEDIN_USERNAM](https://www.linkedin.com/in/san-project-41a03029b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">
     <img src="https://img.icons8.com/color/48/linkedin.png" width="28"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:EMAIL_KAMU@email.com">
+  <a href="achsanulkhuluq0409@gmail.com">
     <img src="https://img.icons8.com/color/48/gmail-new.png" width="28"/>
   </a>
   &nbsp;&nbsp;&nbsp;
