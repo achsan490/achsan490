@@ -57,8 +57,9 @@ struktur rapi, dan solusi yang realistis.
 🔗 https://github.com/achsan490?tab=repositories
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="180" />
 </p>
+
 
 <p align="center">
   <sub>Less noise. More focus.</sub>
