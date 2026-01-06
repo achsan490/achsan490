@@ -15,7 +15,7 @@
 ---
 
 ## 👨‍💻 About Me
-Saya adalah **Software Developer** yang fokus pada pengembangan  
+Saya adalah **Simple Developer** yang fokus pada pengembangan  
 **aplikasi web dan sistem informasi** dengan pendekatan **clean code**,  
 struktur rapi, dan solusi yang realistis.
 
@@ -29,15 +29,15 @@ struktur rapi, dan solusi yang realistis.
 ---
 ## 🌐 Connect
 <p align="center">
-  <a href="(https://www.instagram.com/san49410?igsh=eHR4YzIyNGZkM3lm)" target="_blank">
+  <a href="https://www.instagram.com/san49410" target="_blank">
     <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="28"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="[https://www.linkedin.com/in/LINKEDIN_USERNAM](https://www.linkedin.com/in/san-project-41a03029b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">
+  <a href="https://www.linkedin.com/in/san-project-41a03029b" target="_blank">
     <img src="https://img.icons8.com/color/48/linkedin.png" width="28"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="achsanulkhuluq0409@gmail.com">
+  <a href="mailto:achsanulkhuluq0409@gmail.com">
     <img src="https://img.icons8.com/color/48/gmail-new.png" width="28"/>
   </a>
   &nbsp;&nbsp;&nbsp;
@@ -60,8 +60,6 @@ struktur rapi, dan solusi yang realistis.
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="180" />
 </p>
 
-
 <p align="center">
   <sub>Less noise. More focus.</sub>
 </p>
-
