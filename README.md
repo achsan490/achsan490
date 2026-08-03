@@ -69,21 +69,6 @@ export default achsanul;
 
 <br/>
 
-## 📌 Featured Repositories
-
-<div align="center">
-
-<a href="https://github.com/achsan490/REPO-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=achsan490&repo=REPO-1&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=00F0FF&icon_color=A78BFA&text_color=E2E8F0" />
-</a>
-<a href="https://github.com/achsan490/REPO-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=achsan490&repo=REPO-2&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=00F0FF&icon_color=A78BFA&text_color=E2E8F0" />
-</a>
-
-</div>
-
-<br/>
-
 ## 🔗 Connect With Me
 
 <div align="center">
