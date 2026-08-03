@@ -1,65 +1,40 @@
-<h1 align="center">👾Hi i'am Achsan</h1>
+<h1 align="center">👋 Halo, Saya Achsanul Khuluq</h1>
+<h3 align="center">Informatics Engineering Student & Full-Stack Web Developer</h3>
 
 <p align="center">
-  <b>Software Developer</b> • Web & Information Systems
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Building+modern+web+applications;Clean+code+clear+structure;Learning+by+building;Focus+on+maintainable+systems" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="420" />
+  <img src="https://komarev.com/ghprofile/?username=achsan490&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/achsan490?label=Followers&style=flat-square&color=blueviolet" alt="Followers" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
-Saya adalah **Simple Developer** yang fokus pada pengembangan  
-**aplikasi web dan sistem informasi** dengan pendekatan **clean code**,  
-struktur rapi, dan solusi yang realistis.
+### 💻 Tentang Saya
+- 🎓 Saat ini menempuh studi **Informatika** di Universitas KH. A. Wahab Hasbullah (UNWAHA).
+- 🚀 Berfokus pada **Full-Stack Web Development** dan eksplorasi **Generative AI** / IoT.
+- 🌐 Kunjungi situs web pribadi saya di [sann.my.id](https://sann.my.id).
 
 ---
 
-## ⚙️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode&theme=dark" />
+### 🛠️ Tech Stack & Tools
+
+<p align="left">
+  <!-- Frontend & Styling -->
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,bootstrap,php,html,css,js" />
 </p>
-
----
-## 🌐 Connect
-<p align="center">
-  <a href="https://www.instagram.com/san49410" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="28"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/san-project-41a03029b" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="28"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:achsanulkhuluq0409@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" width="28"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/achsan490" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png" width="28"/>
-  </a>
+<p align="left">
+  <!-- Backend, Database & Tools -->
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql,supabase,git,github,vercel,vscode,c" />
 </p>
 
 ---
 
-## 🚀 What I Build
-- 📦 Sistem Informasi  
-- 🏪 Aplikasi Kasir & Loyalty  
-- 🎓 Project Tugas Akhir  
-- 🌐 Website Responsive  
-
-🔗 https://github.com/achsan490?tab=repositories
+### 📊 Statistik GitHub Saya
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="180" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=achsan490&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=achsan490&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26" />
 </p>
 
 <p align="center">
-  <sub>Less noise. More focus.</sub>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=achsan490&theme=tokyonight&hide_border=true&background=1a1b26" />
 </p>
