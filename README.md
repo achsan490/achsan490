@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Dynamic Animated Header -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=60&lines=Hi+There!+👋;+I'm+M+Achsanul+Khuluq;+Informatics+Engineering+Student;+Full-Stack+Web+Developer" alt="Typing SVG" />
+  <!-- Header Animasi (Capsule Waving) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=180&section=header&text=Hi%20There!%20I'm%20M%20Achsanul%20Khuluq&fontSize=28&fontColor=ffffff&animation=fadeIn" width="100%" />
 
   <p>
     <img src="https://img.shields.io/badge/Status-Active%20Developer-6366F1?style=for-the-badge&logo=github&logoColor=white" />
