@@ -13,10 +13,26 @@
 
 <br/><br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="450">
+<img src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" width="450">
 
 </div>
 
+## 📡 About Me
+
+Halo! Saya **M. Achsanul Khuluq Izzulchaq**, biasa dikenal sebagai **@achsan490**. Saat ini saya berstatus sebagai Mahasiswa Teknik Informatika di **Universitas KH. A. Wahab Hasbullah (UNWAHA)**.
+
+Fokus keahlian saya meliputi:
+- 🌐 **Full-Stack Web Development** — Next.js, React, Tailwind CSS, PHP, MySQL, Supabase
+- 🤖 **Generative AI** — eksplorasi dan integrasi AI ke dalam aplikasi
+- 🔌 **Microcontroller & IoT** — khususnya dengan ESP8266
+
+Saat ini saya sedang memperdalam **Advanced AI Integration & Scalable Web Architecture**. Kunjungi portfolio saya di [sann.my.id](https://sann.my.id) untuk melihat proyek-proyek yang sudah saya kerjakan.
+
+> *Suka mengubah ide jadi kode yang jalan sebelum matahari terbit* 🌙
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/221352968-ac6f7b24-ed9a-4d00-a045-710caa6fc834.gif" width="120">
+</div>
 ## 📡 About Me
 
 <div align="center">
