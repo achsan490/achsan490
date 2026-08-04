@@ -19,31 +19,24 @@
 
 ## 📡 About Me
 
-```typescript
-const achsanul: DeveloperProfile = {
-  fullName: "M. Achsanul Khuluq Izzulchaq",
-  username: "@achsan490",
-  role: "Mahasiswa Teknik Informatika",
-  university: "Universitas KH. A. Wahab Hasbullah (UNWAHA)",
-  portfolio: "https://sann.my.id",
-
-  focusAreas: [
-    "Full-Stack Web Development",
-    "Generative AI",
-    "Microcontroller & IoT (ESP8266)",
-  ],
-
-  currentlyLearning: "Advanced AI Integration & Scalable Web Architecture",
-  funFact: "Suka mengubah ide jadi kode yang jalan sebelum matahari terbit 🌙",
-};
-
-export default achsanul;
-```
-
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/221352968-ac6f7b24-ed9a-4d00-a045-710caa6fc834.gif" width="120">
+<img src="https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4509-870d-e29ed3b8ff4a.gif" width="150">
 </div>
 
+<div align="center">
+
+| | |
+|---|---|
+| **Nama Lengkap** | M. Achsanul Khuluq Izzulchaq |
+| **Username** | @achsan490 |
+| **Status** | Mahasiswa Teknik Informatika |
+| **Universitas** | Universitas KH. A. Wahab Hasbullah (UNWAHA) |
+| **Portfolio** | [sann.my.id](https://sann.my.id) |
+| **Fokus Keahlian** | Full-Stack Web Development, Generative AI, Microcontroller & IoT (ESP8266) |
+| **Sedang Dipelajari** | Advanced AI Integration & Scalable Web Architecture |
+| **Fun Fact** | Suka mengubah ide jadi kode yang jalan sebelum matahari terbit 🌙 |
+
+</div>
 ## ⚡ Tech Arsenal
 
 <div align="center">
