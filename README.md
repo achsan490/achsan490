@@ -13,7 +13,7 @@
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
 
 </div>
 
@@ -41,7 +41,7 @@ export default achsanul;
 ```
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="100%">
 </div>
 
 ## ⚡ Tech Arsenal
@@ -52,12 +52,8 @@ export default achsanul;
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Coding.gif" width="380">
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="400">
 
-</div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 </div>
 
 ## 📊 GitHub Universe
@@ -75,10 +71,10 @@ export default achsanul;
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=achsan490&theme=tokyo-night&bg_color=0F172A&color=00F0FF&line=A78BFA&point=E2E8F0&hide_border=true&area=true" width="100%"/>
 
-</div>
+<br/><br/>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="380">
+
 </div>
 
 ## 🔗 Connect With Me
@@ -90,7 +86,7 @@ export default achsanul;
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="300">
 
 </div>
 
