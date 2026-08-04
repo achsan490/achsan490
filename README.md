@@ -1,107 +1,70 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=280&section=header&text=M.%20Achsanul%20Khuluq%20Izzulchaq&fontSize=40&fontColor=00F0FF&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20IoT%20Tinkerer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=260&section=header&text=Achsanul%20Khuluq&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20%C2%B7%20AI%20Enthusiast%20%C2%B7%20IoT%20Builder&descAlignY=58&descSize=17" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=%3E+Building+the+future%2C+one+commit+at+a+time...;%3E+Next.js+%2F+React+%2F+Tailwind+CSS;%3E+Generative+AI+%26+Prompt+Engineering;%3E+ESP8266+%2F+IoT+%2F+Microcontrollers;%3E+Welcome+to+my+digital+space+%F0%9F%9A%80&font=Fira+Code&center=true&width=650&height=50&duration=3000&pause=800&color=A78BFA&vCenter=true&size=22&background=00000000" alt="Typing SVG" />
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=achsan490&label=PROFILE+VIEWS&color=6D28D9&style=for-the-badge&labelColor=0F172A)
-
-<a href="https://sann.my.id"><img src="https://img.shields.io/badge/Portfolio-sann.my.id-6D28D9?style=for-the-badge&logo=vercel&logoColor=00F0FF&labelColor=0F172A"/></a>
-<a href="https://github.com/achsan490"><img src="https://img.shields.io/badge/GitHub-achsan490-6D28D9?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=0F172A"/></a>
-
-<br/><br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" width="450">
-
-</div>
-
-## 📡 About Me
-
-Halo! Saya **M. Achsanul Khuluq Izzulchaq**, biasa dikenal sebagai **@achsan490**. Saat ini saya berstatus sebagai Mahasiswa Teknik Informatika di **Universitas KH. A. Wahab Hasbullah (UNWAHA)**.
-
-Fokus keahlian saya meliputi:
-- 🌐 **Full-Stack Web Development** — Next.js, React, Tailwind CSS, PHP, MySQL, Supabase
-- 🤖 **Generative AI** — eksplorasi dan integrasi AI ke dalam aplikasi
-- 🔌 **Microcontroller & IoT** — khususnya dengan ESP8266
-
-Saat ini saya sedang memperdalam **Advanced AI Integration & Scalable Web Architecture**. Kunjungi portfolio saya di [sann.my.id](https://sann.my.id) untuk melihat proyek-proyek yang sudah saya kerjakan.
-
-> *Suka mengubah ide jadi kode yang jalan sebelum matahari terbit* 🌙
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/221352968-ac6f7b24-ed9a-4d00-a045-710caa6fc834.gif" width="120">
-</div>
-## 📡 About Me
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4509-870d-e29ed3b8ff4a.gif" width="150">
-</div>
-
-<div align="center">
-
-| | |
-|---|---|
-| **Nama Lengkap** | M. Achsanul Khuluq Izzulchaq |
-| **Username** | @achsan490 |
-| **Status** | Mahasiswa Teknik Informatika |
-| **Universitas** | Universitas KH. A. Wahab Hasbullah (UNWAHA) |
-| **Portfolio** | [sann.my.id](https://sann.my.id) |
-| **Fokus Keahlian** | Full-Stack Web Development, Generative AI, Microcontroller & IoT (ESP8266) |
-| **Sedang Dipelajari** | Advanced AI Integration & Scalable Web Architecture |
-| **Fun Fact** | Suka mengubah ide jadi kode yang jalan sebelum matahari terbit 🌙 |
-
-</div>
-## ⚡ Tech Arsenal
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,bootstrap,php,nodejs,mysql,supabase,git,github,vercel,vscode,c&theme=dark&perline=8" />
-
-<br/><br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="400">
-
-</div>
-
-## 📊 GitHub Universe
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=achsan490&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=00F0FF&icon_color=A78BFA&text_color=E2E8F0&ring_color=6D28D9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=achsan490&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=00F0FF&text_color=E2E8F0" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Halo%2C+saya+Achsanul+%F0%9F%91%8B;Web+Developer+%26+AI+Explorer;Selalu+belajar+hal+baru+setiap+hari;Let's+build+something+great+together;&font=Poppins&center=true&width=550&height=45&duration=2800&pause=900&color=8B5CF6&vCenter=true&size=20&background=00000000" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=achsan490&theme=tokyonight&hide_border=true&background=0F172A&ring=6D28D9&fire=00F0FF&currStreakLabel=00F0FF&sideNums=E2E8F0&dates=94A3B8" />
+<img src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif" width="380">
+
+</div>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=achsan490&theme=tokyo-night&bg_color=0F172A&color=00F0FF&line=A78BFA&point=E2E8F0&hide_border=true&area=true" width="100%"/>
+## 🌸 Tentang Saya
 
-<br/><br/>
+Halo! Saya **M. Achsanul Khuluq Izzulchaq**, dikenal juga sebagai **@achsan490**. Saat ini saya menempuh pendidikan sebagai Mahasiswa Teknik Informatika di **Universitas KH. A. Wahab Hasbullah (UNWAHA)**.
 
-<img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="380">
+Saya senang membangun aplikasi web modern, bereksperimen dengan Generative AI, dan mengutak-atik perangkat IoT berbasis ESP8266. Saat ini saya sedang memperdalam **Advanced AI Integration & Scalable Web Architecture**.
 
-</div>
+📍 Portfolio: [sann.my.id](https://sann.my.id)
+💭 *Suka mengubah ide jadi kode yang jalan sebelum matahari terbit* 🌙
 
-## 🔗 Connect With Me
+<br/>
+
+## 🎨 Yang Saya Kuasai
 
 <div align="center">
 
-<a href="https://sann.my.id"><img src="https://img.shields.io/badge/-Portfolio-0F172A?style=for-the-badge&logo=safari&logoColor=00F0FF"/></a>
-<a href="https://github.com/achsan490"><img src="https://img.shields.io/badge/-GitHub-0F172A?style=for-the-badge&logo=github&logoColor=A78BFA"/></a>
-
-<br/><br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/235294002-8aafea24-3179-45af-91d9-412ad7ff5359.gif" width="80">
-<img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" width="80">
-<img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="80">
-<img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="80">
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,bootstrap,php,nodejs,mysql,supabase,git,github,vercel,vscode,c&theme=light&perline=8" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=120&section=footer" width="100%"/>
+<br/>
+
+## 📊 Aktivitas GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=achsan490&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=f472b6&icon_color=a78bfa&text_color=e2e8f0" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=achsan490&layout=compact&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=f472b6&text_color=e2e8f0" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=achsan490&theme=radical&hide_border=true&background=1a1a2e&ring=f472b6&fire=a78bfa&currStreakLabel=f472b6&sideNums=e2e8f0&dates=94a3b8" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=achsan490&theme=react-dark&bg_color=1a1a2e&color=f472b6&line=a78bfa&point=ffffff&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+<br/>
+
+## 💌 Mari Terhubung
+
+<div align="center">
+
+<a href="https://sann.my.id"><img src="https://img.shields.io/badge/Portfolio-sann.my.id-f472b6?style=for-the-badge&logo=safari&logoColor=white"/></a>
+<a href="https://github.com/achsan490"><img src="https://img.shields.io/badge/GitHub-achsan490-a78bfa?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="300">
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
