@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="border-radius: 12px; margin-bottom: 15px;">
 
 <!-- Terminal Typing Effect -->
-<img src="https://readme-typing-svg.demolab.com/?lines=root@achsan490:~%24+whoami;M.+Achsanul+Khuluq;>+Full-Stack+Engineer;>+AI+Generation+Explorer;>+Database+%26+Web+Architecture;root@achsan490:~%24+sudo+build_the_future&font=JetBrains+Mono&center=true&width=600&height=60&duration=2000&pause=1000&color=00E5FF&vCenter=true&size=19&background=00000000" alt="Typing Terminal" />
+<img src="https://readme-typing-svg.demolab.com/?lines=root@achsan490:~%24+whoami;M.+Achsanul+Khuluq+Izzulchaq;>+Full-Stack+Engineer;>+AI+Generation+Explorer;>+Database+%26+Web+Architecture;root@achsan490:~%24+sudo+build_the_future&font=JetBrains+Mono&center=true&width=600&height=60&duration=2000&pause=1000&color=00E5FF&vCenter=true&size=19&background=00000000" alt="Typing Terminal" />
 
 <br/>
 
