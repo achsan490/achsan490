@@ -19,12 +19,12 @@
 
 </div>
 
-## ('>_ SYS.INFO')
+(SYS.INFO')
 
 <div align="left">
   <!-- Tech Avatar GIF -->
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408da0f69c69.gif" width="40" style="vertical-align: middle; margin-right: 10px; border-radius: 5px;">
-  <span>Halo! Saya M. Achsanul Khuluq Izzulchaq (@achsan490). Saat ini menempuh studi Teknik Informatika di Universitas KH. A. Wahab Hasbullah (UNWAHA). Saya memiliki minat mendalam dalam membangun arsitektur web yang *scalable* serta bereksperimen dengan Generative AI tingkat lanjut (Text-to-Image/Video) untuk menciptakan detail visual yang realistis.</span>
+  <span>Halo! Saya M. Achsanul Khuluq Izzulchaq (@achsan490). Saat ini menempuh studi Teknik Informatika di Universitas KH. A. Wahab Hasbullah (UNWAHA). Saya memiliki minat mendalam dalam membangun arsitektur web yang scalable serta bereksperimen dengan Generative AI tingkat lanjut (Text-to-Image/Video) untuk menciptakan detail visual yang realistis.</span>
 </div>
 
 <br/>
@@ -36,7 +36,7 @@
 
 <br/>
 
- (> TECH.STACK')
+ (TECH.STACK')
 
 <div align="center">
 
@@ -66,7 +66,7 @@
 
 <br/>
 
-(> GITHUB.STATS')
+(GITHUB.STATS')
 
 <div align="center">
 
