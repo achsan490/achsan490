@@ -1,9 +1,9 @@
 <div align="center">
 
-<!-- Cinematic Tech / Cyberpunk Banner GIF (Pertahankan yang Utama) -->
-<img src="https://i.pinimg.com/originals/43/66/1b/43661b369c73e97061c944ad7cc959bf.gif" width="100%" style="border-radius: 12px; margin-bottom: 15px;">
+<!-- Cinematic Tech / Cyberpunk Banner GIF (Reliable GitHub Host) -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="border-radius: 12px; margin-bottom: 15px;">
 
-<!-- Terminal Typing Effect (Updated with Database and Web Architecture) -->
+<!-- Terminal Typing Effect -->
 <img src="https://readme-typing-svg.demolab.com/?lines=root@achsan490:~%24+whoami;M.+Achsanul+Khuluq;>+Full-Stack+Engineer;>+AI+Generation+Explorer;>+Database+%26+Web+Architecture;root@achsan490:~%24+sudo+build_the_future&font=JetBrains+Mono&center=true&width=600&height=60&duration=2000&pause=1000&color=00E5FF&vCenter=true&size=19&background=00000000" alt="Typing Terminal" />
 
 <br/>
@@ -14,7 +14,7 @@
 
 <br/><br/>
 
-<!-- Neon Line Divider GIF -->
+<!-- Neon Line Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 </div>
@@ -22,17 +22,17 @@
 ## ('>_ SYS.INFO')
 
 <div align="left">
-  <!-- GIF kecil di samping judul -->
-  <img src="https://i.pinimg.com/originals/3a/0c/7c/3a0c7c346894086e3f4931e0f6e91771.gif" width="40" style="vertical-align: middle; margin-right: 10px; border-radius: 5px;">
+  <!-- Tech Avatar GIF -->
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408da0f69c69.gif" width="40" style="vertical-align: middle; margin-right: 10px; border-radius: 5px;">
   <span>Halo! Saya **M. Achsanul Khuluq Izzulchaq** (@achsan490). Saat ini menempuh studi Teknik Informatika di **Universitas KH. A. Wahab Hasbullah (UNWAHA)**. Saya memiliki minat mendalam dalam membangun arsitektur web yang *scalable* serta bereksperimen dengan *Generative AI* tingkat lanjut (Text-to-Image/Video) untuk menciptakan detail visual yang realistis.</span>
 </div>
 
 <br/>
 
 > 💻 **Current Stack:** Next.js, Tailwind CSS, Bootstrap 5, & PHP Native
-> <img src="https://i.pinimg.com/originals/5c/7f/0a/5c7f0a8523b123653f885e35e76a6d68.gif" width="30" style="vertical-align: middle; margin-right: 5px;"> **Databases:** MySQL, Supabase, & TiDB
+> 🗄️ **Databases:** MySQL, Supabase, & TiDB
 > 🌐 **Deployments:** Vercel & custom cPanel environments
-> <img src="https://i.pinimg.com/originals/1c/aa/c5/1caac55143e3e11461c6ae5962403deb.gif" width="30" style="vertical-align: middle; margin-right: 5px;"> *"Mengubah kafein dan ide menjadi barisan kode sebelum matahari terbit"*
+> 🌙 *"Mengubah kafein dan ide menjadi barisan kode sebelum matahari terbit"*
 
 <br/>
 
@@ -46,7 +46,7 @@
 
 <br/><br/>
 <!-- Matrix Code Stream GIF -->
-<img src="https://i.pinimg.com/originals/1c/aa/c5/1caac55143e3e11461c6ae5962403deb.gif" width="300" style="border-radius: 10px;">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="250" style="border-radius: 10px;">
 <br/><br/>
 
 <a href="https://skillicons.dev">
@@ -55,7 +55,7 @@
 
 <br/><br/>
 <!-- Server Data GIF -->
-<img src="https://i.pinimg.com/originals/91/9f/61/919f61b369c73e97061c944ad7cc959bf.gif" width="300" style="border-radius: 10px;">
+<img src="https://user-images.githubusercontent.com/74038190/212257464-90408542-a8c6-43b6-bf25-5da9fdfcbf21.gif" width="250" style="border-radius: 10px;">
 <br/><br/>
 
 <a href="https://skillicons.dev">
@@ -70,7 +70,7 @@
 
 <div align="center">
 
-<!-- Terminal Prompt GIF -->
+<!-- Terminal Prompt Loading -->
 <img src="https://readme-typing-svg.demolab.com/?lines=>+fetch_stats_v1.0;>+Loading+user+performance+metrics...;>+Analyzing+commit+patterns...&font=JetBrains+Mono&center=true&width=600&height=40&duration=1500&pause=500&color=a3a3a3&vCenter=true&size=16&background=00000000" alt="Terminal Stats Fetch" />
 <br/>
 
@@ -79,7 +79,7 @@
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=achsan490&layout=compact&hide_border=true&bg_color=050505&title_color=00E5FF&text_color=a3a3a3" />
 
 <br/><br/>
-<!-- Data Flow GIF separator -->
+<!-- Neon Line Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 <br/><br/>
 
@@ -88,18 +88,16 @@
 
 <br/>
 
-<!-- Activity Graph (Pertahankan Asli) -->
+<!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=achsan490&bg_color=050505&color=00E5FF&line=00E5FF&point=FFFFFF&hide_border=true&area=true" width="100%"/>
 
 <br/><br/>
 
-<!-- Footer Terminal Exit with integrated smaller GIFs -->
+<!-- Footer Terminal Exit -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 <br/>
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Connection+terminated.;Goodbye.&font=JetBrains+Mono&center=true&width=600&height=30&duration=2000&pause=2000&color=a3a3a3&vCenter=true&size=14&background=00000000" alt="Terminal Exit" style="vertical-align: middle;">
-  <!-- Kursor terminal berkedip GIF kecil -->
-  <img src="https://i.pinimg.com/originals/1c/aa/c5/1caac55143e3e11461c6ae5962403deb.gif" width="20" style="vertical-align: middle; border-radius: 50%;">
 </div>
 
 </div>
