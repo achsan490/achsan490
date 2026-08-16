@@ -19,7 +19,6 @@
 
 </div>
 
-(SYS.INFO')
 
 <div align="left">
   <!-- Tech Avatar GIF -->
@@ -36,7 +35,6 @@
 
 <br/>
 
- (TECH.STACK')
 
 <div align="center">
 
@@ -66,7 +64,6 @@
 
 <br/>
 
-(GITHUB.STATS')
 
 <div align="center">
 
